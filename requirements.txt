@@ -1,0 +1,3 @@
+google-genai>=0.3.0
+sv_ttk>=2.6.0
+pywinstyles>=1.8
